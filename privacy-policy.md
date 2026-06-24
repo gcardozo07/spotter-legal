@@ -1,93 +1,122 @@
-# Terms & Conditions
+# Privacy Policy
 
 Effective date: 2026-06-24
 
-These Terms & Conditions apply to the Bombi mobile application (“Application”), created by Gerardo Cardozo (“Service Provider”) as a free service.
+This Privacy Policy applies to the Bombi mobile application (“Application”), created by Gerardo Cardozo (“Service Provider”) as a free service.
 
-By downloading, accessing, or using Bombi, you agree to these Terms. Please read them carefully before using the Application.
+This policy explains what information Bombi may collect, how it is used, and how users can manage or delete their account.
 
-## Use of the Application
+## Information We Collect
 
-Bombi is a social fitness application that helps users connect with people training at the same gym, share workout activity, interact with posts and comments, and communicate with other users.
+Bombi may collect information you provide directly, information created through your use of the Application, and limited technical information needed to operate the service.
 
-You agree to use Bombi respectfully, lawfully, and only for its intended purpose. You may not copy, modify, reverse engineer, extract source code, translate, or create derivative versions of the Application or any part of it. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
+This may include:
 
-The Service Provider may modify, suspend, or discontinue parts of the Application at any time. If any paid features are introduced in the future, any charges will be clearly communicated before use.
+* Account information, such as name, email address, authentication provider, and user ID.
+* Profile information, such as username, avatar, bio, age, gym preference, training preferences, and profile visibility.
+* Workout and social activity, such as workout posts, completed workouts, comments, likes, follows, follow requests, blocks, training requests, and connections.
+* Photos and media you choose to upload, such as profile photos or workout post images.
+* Chat messages and related conversation metadata.
+* Location data used to verify gym proximity and provide location-based gym features.
+* Device and technical information, such as operating system, app usage, crash information, analytics data, and device identifiers where applicable.
+* Safety and moderation data, such as reports, report reasons, reported content identifiers, text previews, blocking actions, and timestamps.
 
-## Account and User Responsibility
+## How We Use Information
 
-You are responsible for maintaining the security of your device, account, and access to the Application. The Service Provider strongly advises against jailbreaking or rooting your device, as this may expose your device to security risks and may cause the Application to stop working correctly.
+The Service Provider may use collected information to:
 
-You are responsible for the content you create, upload, publish, send, or share through Bombi, including profile information, photos, workout posts, comments, and chat messages.
+* Create and manage user accounts.
+* Provide Bombi’s core features, including gym-based training activity, profiles, posts, comments, likes, follows, chats, and notifications.
+* Verify whether a user is near a selected gym for location-based features.
+* Improve performance, reliability, safety, and user experience.
+* Prevent abuse, investigate reports, enforce rules, and protect users.
+* Provide support and respond to user requests.
+* Comply with legal obligations when required.
 
-## User-Generated Content and Safety Policy
+## Location Data
 
-Bombi allows users to create and share content, including workout posts, profile information, photos, comments, and chat messages. Users are responsible for the content they publish or send through the Application.
+Bombi uses location data to support gym-based features, including verifying whether a user is near a selected gym before starting certain activities.
 
-Bombi has zero tolerance for objectionable content or abusive behavior. Users may not post, upload, send, or share content that is harassing, threatening, hateful, sexually explicit, violent, discriminatory, illegal, misleading, defamatory, invasive of privacy, or otherwise harmful to other users.
+Location data is used to provide the Application’s core functionality and safety rules. If location permission is denied, some features may not work correctly.
 
-Users can report posts, profiles, comments, and chat messages directly inside the Application. Users can also block other users from interacting with them. Bombi reviews reports and may remove content, restrict access, suspend accounts, or permanently remove users who violate these rules.
+## User-Generated Content
 
-The Service Provider aims to review and act on valid safety reports within 24 hours when urgent safety concerns are involved.
+Content you create or share in Bombi may be visible to other users depending on the feature and your privacy settings. This may include workout posts, photos, profile information, comments, and messages.
 
-By using Bombi, you agree to use the Application respectfully and to follow this content policy. Violation of this policy may result in content removal, account restrictions, or account termination.
+You are responsible for the content you share. Other users may report content or accounts that appear abusive, unsafe, or in violation of Bombi’s Terms.
 
-## Blocking and Reporting
+## Safety Reports and Moderation Data
 
-Bombi provides in-app tools to help users stay safe. You may report objectionable content or abusive users from supported areas of the Application, including posts, profiles, comments, and chat messages.
+When a user submits a report in Bombi, the Application may collect information related to the reported content, including:
 
-You may also block another user. Blocking may prevent future interactions such as messages, follow requests, training requests, or other social interactions inside the Application.
+* reporting user ID
+* reported user ID
+* content type
+* content ID
+* post ID, comment ID, chat ID, or message ID when relevant
+* text preview when available
+* reason for the report
+* report status
+* date and time of submission
 
-Reports are reviewed for safety, abuse prevention, and enforcement of these Terms.
+This information is used only to review reports, enforce safety rules, prevent abuse, protect users, and comply with legal or platform requirements.
 
-## Location-Based Features
-
-Some Bombi features require location access to confirm that a user is near a selected gym and to provide relevant gym-based experiences. You are responsible for granting or denying location permissions through your device settings.
-
-The Application may not work as intended if location access is denied or unavailable.
-
-## Fitness and Safety Disclaimer
-
-Bombi is a social fitness application. It does not provide medical advice, professional training advice, diagnosis, or treatment. You are responsible for your own physical activity and should consult a qualified professional before starting or changing an exercise routine if you have health concerns.
+Some moderation or safety records may be retained for a reasonable period even after account deletion if necessary to prevent abuse, protect users, or comply with legal obligations.
 
 ## Third-Party Services
 
-The Application may use third-party services that have their own Terms and Conditions, including:
+Bombi may use third-party services to operate, authenticate, analyze, and improve the Application. These services may collect information according to their own privacy policies.
+
+Third-party services may include:
 
 * Google Play Services
 * Google Analytics for Firebase
-* Expo
 * Firebase
+* Expo
 * Apple services, where applicable
 
-The Service Provider is not responsible for third-party services, outages, policies, or charges.
+Only information necessary to provide and improve the service is shared with these providers.
 
-## Internet and Device Requirements
+## Data Retention
 
-Some functions of the Application require an active internet connection. The Service Provider cannot be held responsible if the Application does not function fully due to lack of internet access, device issues, exhausted data allowance, or third-party service interruptions.
+The Service Provider retains user-provided data for as long as needed to provide the Application and for a reasonable period thereafter.
 
-If you use the Application outside a Wi-Fi area, your mobile network provider’s terms and charges may apply, including roaming data charges.
-
-## Account Deletion
-
-Users may delete their account directly inside the Application from:
+Users can delete their account directly inside the Application from:
 
 Profile → Eliminar cuenta
 
-Deleting your account may remove your profile, workout activity, posts, comments, messages, connections, and other associated account data, subject to any limited retention needed for safety, abuse prevention, legal compliance, or enforcement of these Terms.
+Account deletion removes or anonymizes associated account data where appropriate. Some limited data may be retained where necessary for safety, abuse prevention, dispute resolution, legal compliance, or enforcement of Bombi’s Terms.
 
-## Termination
+## Account Deletion
 
-The Service Provider may suspend or terminate access to the Application if a user violates these Terms, abuses other users, posts objectionable content, attempts to manipulate the service, or uses the Application unlawfully.
+Users may request account deletion directly in the Application through:
 
-Upon termination, the rights and licenses granted to you in these Terms will end, and you must stop using the Application.
+Profile → Eliminar cuenta
 
-## Changes to These Terms
+After account deletion, the user may lose access to their profile, posts, chats, comments, workout activity, social connections, and related data. This action may not be reversible.
 
-The Service Provider may update these Terms from time to time. Any changes will be posted on this page. Continued use of the Application after updates means you accept the revised Terms.
+## Opt-Out Rights
+
+You can stop all collection of information by uninstalling the Application. You may also manage permissions such as location, notifications, camera, and photos through your device settings.
+
+## Children’s Privacy
+
+Bombi is not intended for children under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13.
+
+If the Service Provider discovers that a child under 13 has provided personal information, that information will be deleted. If you are a parent or guardian and believe your child has provided personal information, contact the Service Provider at:
+
+[bremen07@hotmail.com](mailto:bremen07@hotmail.com)
+
+## Security
+
+The Service Provider uses reasonable safeguards to protect information processed and maintained through the Application. However, no method of electronic storage or transmission over the internet is completely secure.
+
+## Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time. Any changes will be posted on this page. Continued use of the Application after updates means you accept the revised Privacy Policy.
 
 ## Contact Us
 
-If you have questions or suggestions about these Terms & Conditions, contact the Service Provider at:
+If you have questions about this Privacy Policy or data practices, contact the Service Provider at:
 
 [bremen07@hotmail.com](mailto:bremen07@hotmail.com)
