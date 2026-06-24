@@ -1,76 +1,93 @@
-**Privacy Policy**
+# Terms & Conditions
 
-This privacy policy applies to the Spotter app (hereby referred to as "Application") for mobile devices that was created by Gerardo Cardozo (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+Effective date: 2026-06-24
 
-**Information Collection and Use**
+These Terms & Conditions apply to the Bombi mobile application (“Application”), created by Gerardo Cardozo (“Service Provider”) as a free service.
 
-The Application collects information when you download and use it. This information may include information such as
+By downloading, accessing, or using Bombi, you agree to these Terms. Please read them carefully before using the Application.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+## Use of the Application
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+Bombi is a social fitness application that helps users connect with people training at the same gym, share workout activity, interact with posts and comments, and communicate with other users.
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+You agree to use Bombi respectfully, lawfully, and only for its intended purpose. You may not copy, modify, reverse engineer, extract source code, translate, or create derivative versions of the Application or any part of it. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
-The Application uses Artificial Intelligence (AI) technologies to enhance user experience and provide certain features. The AI components may process user data to deliver personalized content, recommendations, or automated functionalities. All AI processing is performed in accordance with this privacy policy and applicable laws. If you have questions about the AI features or data processing, please contact the Service Provider.
+The Service Provider may modify, suspend, or discontinue parts of the Application at any time. If any paid features are introduced in the future, any charges will be clearly communicated before use.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+## Account and User Responsibility
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Name, Email address, Photos / media, Location data, generated content (comments, posts). The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+You are responsible for maintaining the security of your device, account, and access to the Application. The Service Provider strongly advises against jailbreaking or rooting your device, as this may expose your device to security risks and may cause the Application to stop working correctly.
 
-**Third Party Access**
+You are responsible for the content you create, upload, publish, send, or share through Bombi, including profile information, photos, workout posts, comments, and chat messages.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+## User-Generated Content and Safety Policy
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+Bombi allows users to create and share content, including workout posts, profile information, photos, comments, and chat messages. Users are responsible for the content they publish or send through the Application.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-*   [Expo](https://expo.io/privacy)
+Bombi has zero tolerance for objectionable content or abusive behavior. Users may not post, upload, send, or share content that is harassing, threatening, hateful, sexually explicit, violent, discriminatory, illegal, misleading, defamatory, invasive of privacy, or otherwise harmful to other users.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+Users can report posts, profiles, comments, and chat messages directly inside the Application. Users can also block other users from interacting with them. Bombi reviews reports and may remove content, restrict access, suspend accounts, or permanently remove users who violate these rules.
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+The Service Provider aims to review and act on valid safety reports within 24 hours when urgent safety concerns are involved.
 
-**Opt-Out Rights**
+By using Bombi, you agree to use the Application respectfully and to follow this content policy. Violation of this policy may result in content removal, account restrictions, or account termination.
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+## Blocking and Reporting
 
-**Data Retention Policy**
+Bombi provides in-app tools to help users stay safe. You may report objectionable content or abusive users from supported areas of the Application, including posts, profiles, comments, and chat messages.
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at bremen07@hotmail.com and they will respond in a reasonable time.
+You may also block another user. Blocking may prevent future interactions such as messages, follow requests, training requests, or other social interactions inside the Application.
 
-**Children**
+Reports are reviewed for safety, abuse prevention, and enforcement of these Terms.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+## Location-Based Features
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (bremen07@hotmail.com) so that they will be able to take the necessary actions.
+Some Bombi features require location access to confirm that a user is near a selected gym and to provide relevant gym-based experiences. You are responsible for granting or denying location permissions through your device settings.
 
-**Security**
+The Application may not work as intended if location access is denied or unavailable.
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+## Fitness and Safety Disclaimer
 
-**Changes**
+Bombi is a social fitness application. It does not provide medical advice, professional training advice, diagnosis, or treatment. You are responsible for your own physical activity and should consult a qualified professional before starting or changing an exercise routine if you have health concerns.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+## Third-Party Services
 
-This privacy policy is effective as of 2026-05-11
+The Application may use third-party services that have their own Terms and Conditions, including:
 
-**Your Consent**
+* Google Play Services
+* Google Analytics for Firebase
+* Expo
+* Firebase
+* Apple services, where applicable
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+The Service Provider is not responsible for third-party services, outages, policies, or charges.
 
-**Contact Us**
+## Internet and Device Requirements
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at bremen07@hotmail.com.
+Some functions of the Application require an active internet connection. The Service Provider cannot be held responsible if the Application does not function fully due to lack of internet access, device issues, exhausted data allowance, or third-party service interruptions.
 
-* * *
+If you use the Application outside a Wi-Fi area, your mobile network provider’s terms and charges may apply, including roaming data charges.
 
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+## Account Deletion
+
+Users may delete their account directly inside the Application from:
+
+Profile → Eliminar cuenta
+
+Deleting your account may remove your profile, workout activity, posts, comments, messages, connections, and other associated account data, subject to any limited retention needed for safety, abuse prevention, legal compliance, or enforcement of these Terms.
+
+## Termination
+
+The Service Provider may suspend or terminate access to the Application if a user violates these Terms, abuses other users, posts objectionable content, attempts to manipulate the service, or uses the Application unlawfully.
+
+Upon termination, the rights and licenses granted to you in these Terms will end, and you must stop using the Application.
+
+## Changes to These Terms
+
+The Service Provider may update these Terms from time to time. Any changes will be posted on this page. Continued use of the Application after updates means you accept the revised Terms.
+
+## Contact Us
+
+If you have questions or suggestions about these Terms & Conditions, contact the Service Provider at:
+
+[bremen07@hotmail.com](mailto:bremen07@hotmail.com)
